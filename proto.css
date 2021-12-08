@@ -1,0 +1,50 @@
+#wrapper {
+			height : auto;
+			width : 100%;
+			margin : 0 auto;
+			max-width: 100%;
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: #56007F;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  padding:  55px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  margin: 0;
+  font-family: Verdana;
+  font-weight: bold;
+}
+
+#imghead {
+	float: left;
+	height: 140px;
+}
+
+
+
+a:hover {
+	background-color: #8743a8;
+}
+
+h1  {
+    margin: 0 auto;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+ td {
+    padding: 5px;
+    text-align: left;    
+} 
+ th { 
+ text-align: center; 
+ }
